@@ -1,85 +1,36 @@
-<!--
-  👋 Hi there, I’m [Your Name]!
+## Hey 👋, I'm <>!
 
-  ⚡ Fun fact: I [something interesting]
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-  Links:
-  🔭 I’m currently working on …
-  🌱 I’m currently learning …
-  👯 I want to collaborate on …
-  💬 Ask me about …
-  📫 How to reach me: …
-  😄 Pronouns: …
-  ⚡ Fun fact: …
+### 🧐 More About Me:
 
-  Feel free to modify or remove sections you don’t need.
--->
+- 🔭 I’m currently working on **youtube-audio-player**  
+- 🤝 I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)  
+- 🌱 I’m currently learning Typescript  
+- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/rahul-jha98?tab=repositories)  
+- 🎨 Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉  
+- 💬 Ask me about anything tech related, I am happy to help  
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)  
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)  
+- 📚 When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the books I have read  
 
-<div align="center">
-  <h1>Hi, I'm [Your Name] 👋</h1>
-  <p>
-    <em>[Your Role] at [Company / Project]</em><br/>
-    [A short tagline or what you love doing — one sentence]
-  </p>
-</div>
+### 📊 GitHub Stats
 
----
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)  
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-## 🧰 Skills & Tools
+### 🔨 Languages & Tools
 
-| Category | Technologies |
-| :-- | :-- |
-| Programming Languages | `JavaScript` · `TypeScript` · `Python` · `Go` |
-| Frontend / UI | `React` · `Vue` · `HTML` · `CSS` · `Tailwind CSS` |
-| Backend / DevOps | `Node.js` · `Express` · `Docker` · `Kubernetes` |
-| Databases | `PostgreSQL` · `MongoDB` · `Redis` |
-| Others | `Git` · `CI/CD` · `Unit Testing` · `GraphQL` |
+*(No details listed in the original; you might fill this in yourself.)*
 
----
+### 🛠️ My Projects
 
-## 🚀 Projects
+Here are some of Rahul’s pinned / highlighted projects:
 
-Here are some of my recent/projects I’m proud of:
+1. **Artistify.ai** — Web‑app to generate artistically styled images using style transfer models  
+2. **PasswordKeeper** — Web app to securely store encrypted passwords in Google Drive  
+3. **sheets-database** — Library to use a Google Sheet as a database (TypeScript)  
+4. **JustJoking.ai** — Using a Transformer model to generate short jokes  
+5. **RestaurantTrends.stats** — Visualize food / restaurant trends city-wise by scraping Zomato  
+6. **Hope** — Android app with chat rooms for group therapy moderated by a chatbot  
 
-| Project | Description | Link |
-| :-- | :-- | :-- |
-| **[Project One]** | [One‑liner about what it does & tech used] | [GitHub / Live Demo](URL) |
-| **[Project Two]** | [One‑liner about what it does & tech used] | [GitHub / Live Demo](URL) |
-| **[Project Three]** | [One‑liner about what it does & tech used] | [GitHub / Live Demo](URL) |
-
----
-
-## 📈 GitHub Stats
-
-<!-- You can use tools like GitHub Readme Stats to show stats here -->
-![YourName’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
-
-## 📫 Get In Touch
-
-- 🏢 Working at: [Your Company / Project]  
-- 🌍 Location: [City, Country]  
-- ✉️ Email: [your.email@example.com]  
-- 🔗 More social:  
-  [![LinkedIn][linkedin-shield]][linkedin-url]  
-  [![Twitter][twitter-shield]][twitter-url]  
-
----
-
-## 🔗 Quick Links
-
-- [Resume / CV](link‑to‑resume)  
-- [Blog](link‑to‑blog)  
-- [Portfolio](link‑to‑portfolio)
-
----
-
-<sub>“[A quote you like or your personal motto]”</sub>
-
----
-
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-YourUsername-blue?logo=linkedin  
-[twitter-shield]: https://img.shields.io/badge/Twitter-YourHandle-blue?logo=twitter  
-[linkedin-url]: https://www.linkedin.com/in/YourUsername/  
-[twitter-url]: https://twitter.com/YourHandle  
